@@ -1,3 +1,4 @@
+//Checking if given binary tree is BST or not in O(n)
 #include<bits/stdc++.h>
 #include<queue>
 using namespace std;
