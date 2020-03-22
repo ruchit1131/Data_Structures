@@ -1,3 +1,4 @@
+//Using the property that inorder traversal of a BST is sorted
 #include<bits/stdc++.h>
 #include<queue>
 using namespace std;
